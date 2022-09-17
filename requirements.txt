@@ -74,7 +74,6 @@ ms-identity-web @ git+https://github.com/azure-samples/ms-identity-python-utilit
 msal==1.18.0
 msal-extensions==1.0.0
 mysql==0.0.3
-mysqlclient==2.1.1
 networkx==2.8.4
 numpy==1.23.0
 oauthlib==3.2.0
